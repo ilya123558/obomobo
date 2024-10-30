@@ -17,7 +17,7 @@ export const ChatItemInterlocutor: React.FC<IProps> = ({status, imgSrc, isRead, 
   return (
     <li className='flex flex-col sm:text-[14px] text-[12px]'>
       <div className="flex items-center mb-[10px]">
-        <UserChatStatus imgSrc={imgSrc} size={26} status={status}>{title}</UserChatStatus>
+        <UserChatStatus handleClick={() => {}} imgSrc={imgSrc} size={26} status={status}>{title}</UserChatStatus>
         {!isHelloMessage && (
           <div className="m-[0px_6px]">
             {isRead && (

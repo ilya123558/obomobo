@@ -1,0 +1,36 @@
+.recovering__wrapper{
+  animation: recovering__wrapperAimation 1s infinite;
+}
+
+.recovering{
+  animation: recoveringAimation 1s infinite;
+  transition: all 0.5s;
+}
+
+@keyframes recoveringAimation {
+  0%{
+    opacity: 0;
+  }
+
+  50%{
+    opacity: 1;
+  }
+
+  100%{
+    opacity: 0;
+  }
+}
+
+@keyframes recovering__wrapperAimation {
+  0%{
+    box-shadow: 0px 0px 5px 0px #15950C, inset 0px 0px 5px 0px #15950C;
+  }
+
+  50%{
+    box-shadow: 0px 0px 5px 2px #15950C, inset 0px 0px 5px 2px #15950C;
+  }
+
+  100%{
+    box-shadow: 0px 0px 5px 0px #15950C, inset 0px 0px 5px 0px #15950C;
+  }
+}

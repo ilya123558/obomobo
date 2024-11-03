@@ -3,7 +3,7 @@ import { ScheduleContentInfo } from '../schedule-content-info/ScheduleContentInf
 import { ScheduleTable } from '../schedule-table/ScheduleTable';
 
 export const ScheduleContent = () => {
-  const [openContentInfo, setOpenContentInfo] = useState(false)
+  const [openContentInfo, setOpenContentInfo] = useState(true)
 
   return (
     <div className="w-full h-full relative bg-[#EAF1FF]">

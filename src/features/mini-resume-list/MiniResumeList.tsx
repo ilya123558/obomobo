@@ -9,9 +9,9 @@ export const MiniResumeList: React.FC<IProps> = ({list, byAgreement}) => {
   return (
     <ul className='w-full flex flex-col gap-y-[7px]'>
       {list.map((item, index) => (
-        <li key={index} className='flex w-full 2xl:flex-row flex-col 2xl:justify-between 2xl:items-center items-start text-[12px] text-black text-opacity-70'>
+        <li key={index} className='flex w-full flex-col 2xl:justify-between 2xl:items-center items-start text-[10px] text-black text-opacity-70'>
           <div className="flex">
-            <div className="w-[6px] h-[6px] min-w-[6px] min-h-[6px] bg-green rounded-full mr-[5px] mt-[6px]"></div>
+            <div className="w-[4px] h-[4px] min-w-[4px] min-h-[4px] bg-green rounded-full mr-[3px] mt-[6px]"></div>
             <p>{item}</p>
           </div>
           {byAgreement && (

@@ -44,13 +44,13 @@ export const ResumeContactInfo = () => {
   return (
     <div>
       <TitleH4>Контактная информация</TitleH4>
-      <ul className='flex flex-col gap-y-[15px]'>
+      <ul className='flex flex-col sm:gap-y-[15px] gap-y-[10px]'>
         {contactInfoList.map(({text, svgElement}) => (
           <li key={text} className='flex items-center md:justify-start justify-center'>
-            <div className="w-[42px]">
+            <div className="sm:w-[42px] w-[25px] sm:scale-100 scale-50">
               {svgElement}
             </div>
-            <p className='text-[#46494E] font-normal text-[24px]'>{text}</p>
+            <p className='text-[#46494E] font-normal sm:text-[24px] text-[14px]'>{text}</p>
           </li>
         ))}
       </ul>

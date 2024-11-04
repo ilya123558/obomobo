@@ -10,7 +10,7 @@ export const ResumeLanguages = () => {
   ]
 
   return (
-    <div className='md:mt-[50px] mt-[80px]'>
+    <div className='md:mt-[50px] sm:mt-[80px] mt-[40px]'>
       <TitleH4>Языки</TitleH4>
       <ul className='flex flex-col gap-y-[25px]'>
         {skillLvlList.map(({title, lvl}, index) => (

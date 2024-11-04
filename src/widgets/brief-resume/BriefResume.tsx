@@ -5,7 +5,7 @@ import React from "react";
 export const BriefResume = () => {
   return (
     <Container className="flex xl:flex-row flex-col xl:items-start items-center mt-[50px]">
-      <div className="xl:min-w-[405px] xl:min-h-[405px] h-[300px] w-[300px] rounded-[40px] overflow-hidden bg-[#D9D9D9] bg-opacity-[0.2] xl:mr-[67px] mr-[0px] xl:mb-[0px] mb-[50px]">
+      <div className="xl:min-w-[405px] xl:min-h-[405px] h-[300px] w-[300px] rounded-[40px] overflow-hidden bg-[#D9D9D9] bg-opacity-[0.2] xl:mr-[67px] mr-[0px] xl:mb-[0px] sm:mb-[50px] mb-[20px]">
         <Image src={'/user/resume/brief-resume-img.png'} alt='brief-resume-img' height={405} width={405} quality={100} className="" />
       </div>
       <div className="w-full xl:block flex flex-col items-center">
@@ -28,7 +28,7 @@ export const BriefResume = () => {
           </div>
         </div>
         <div className="mt-[30px] xl:text-start text-center xl:max-w-max max-w-[90%]">
-          <p className="text-[#5C5C5C] sm:text-[24px] text-[18px] font-normal">
+          <p className="text-[#5C5C5C] sm:text-[24px] text-[14px] font-normal">
             Example.Programming in Delphi, Java, PHP, C++; Knowledge of document
             (website) markup languages: HTML, CSS, Javascript (JS); I have basic
             programming skills in the 1C: Enterprise 8.3 system; Knowledge of

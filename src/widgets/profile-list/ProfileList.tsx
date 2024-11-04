@@ -11,7 +11,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -21,7 +21,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -31,7 +31,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -41,7 +41,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -51,7 +51,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -61,7 +61,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -71,7 +71,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -81,7 +81,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -91,7 +91,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -101,7 +101,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -111,7 +111,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -121,7 +121,18 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
+  },
+
+  {
+    name: 'Taskia',
+    profession: 'UI UX Designer',
+    status: 'Online',
+    negativeReviews: 100,
+    positiveReviews: 100,
+    date: '22-12-2024',
+    orders: 10,
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -131,7 +142,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -141,7 +152,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -151,7 +162,7 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
+    searches: 'Иванов И.И.'
   },
   {
     name: 'Taskia',
@@ -161,297 +172,8 @@ const data = [
     positiveReviews: 100,
     date: '22-12-2024',
     orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },{
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
-  {
-    name: 'Taskia',
-    profession: 'UI UX Designer',
-    status: 'Online',
-    negativeReviews: 100,
-    positiveReviews: 100,
-    date: '22-12-2024',
-    orders: 10,
-    searches: 'Ivanov'
-  },
+    searches: 'Иванов И.И.'
+  }
 ];
 
 interface IProps {
@@ -470,12 +192,12 @@ export const ProfileList: React.FC<IProps> = ({setActiveComponentValue}) => {
     <div 
       ref={containerRef}
       style={{height: `${height}px`}} 
-      className="md:rounded-[0px_10px_10px_0px] rounded-[10px_0px_0px_10px] bg-white transition-all scroll-hidden overflow-auto relative"
+      className="md:rounded-[0px_10px_10px_0px] col-span-4 rounded-[10px_0px_0px_10px] bg-white transition-all scroll-hidden overflow-auto relative"
     >
       <ul
-        className="flex flex-col text-black 2xl:text-[8px] xl:text-[7px] text-[6px] text-opacity-[0.7] w-full text-center"
+        className="flex flex-col text-black 2xl:text-[10px] xl:text-[9px] sm:text-[8px] text-[7px] text-opacity-[0.7] w-full text-center"
       >
-        <li className='grid grid-cols-11 items-center w-full p-[9px_15px_9px_33px] border-b-[1px] border-[#ECEEF0] bg-[#FFF5E5] will-change-scroll sticky top-[0px] z-10'>
+        <li className='grid grid-cols-11 items-center w-full lg:p-[9px_15px_9px_33px] p-[9px_15px_9px_20px] border-b-[1px] border-[#ECEEF0] bg-[#FFF5E5] will-change-scroll sticky top-[0px] z-10'>
           <div className="text-start">Имя</div>
           <div className="col-span-2">Профессия</div>
           <div className="">Статус</div>
@@ -486,7 +208,7 @@ export const ProfileList: React.FC<IProps> = ({setActiveComponentValue}) => {
           <div className="">Поиск</div>
         </li>
         {data.map((item, index, arr) => (
-          <li onClick={handleClick} key={index} className={`cursor-pointer items-center select-none relative grid grid-cols-11 w-full p-[9px_15px_9px_33px] ${(index === arr.length - 1) ? '': 'border-b-[1px]'} border-[#ECEEF0]`}>
+          <li onClick={handleClick} key={index} className={`cursor-pointer items-center select-none relative grid grid-cols-11 w-full lg:p-[9px_15px_9px_33px] p-[9px_15px_9px_20px] ${(index === arr.length - 1) ? '': 'border-b-[1px]'} border-[#ECEEF0]`}>
             <div className="absolute xl:left-[12px] left-[8px] top-[50%] translate-y-[-50%]">
               <svg className='xl:w-[11px] xl:h-[8px] w-[8px] h-[5px]' width="11" height="8" viewBox="0 0 11 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M-9.15527e-05 2.78662C-9.15527e-05 2.51048 0.223766 2.28662 0.499908 2.28662H5.71207V5.71392H0.499909C0.223766 5.71392 -9.15527e-05 5.49006 -9.15527e-05 5.21392V2.78662Z" fill="#82C333"/>

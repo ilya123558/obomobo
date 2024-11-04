@@ -48,7 +48,7 @@ export const Chat: React.FC<IProps> = ({setActiveComponentValue}) => {
   }
 
   return (
-    <div style={{height: heightContainer}} ref={refContainer} className='w-full h-full bg-white md:rounded-[10px] rounded-[10px_0px_0px_10px] relative overflow-hidden'>
+    <div style={{height: heightContainer}} ref={refContainer} className='w-full h-full col-span-3 bg-white md:rounded-[10px] rounded-[10px_0px_0px_10px] relative overflow-hidden'>
       <div className="flex items-center justify-between border-b-[1px] border-[#ECEEF0] p-[12px_14px]">
         <div className="w-full">
           <UserChatStatus handleClick={handleClick} imgSrc={'/device-manager/chat-img.png'} size={32} status='online'>Taskia jannat iva</UserChatStatus>

@@ -9,14 +9,14 @@ import React from 'react';
 
 export const ResumeContent = () => {
   return (
-    <main className='mt-[80px]'>
-      <Container className='md:flex gap-[30px]'>
+    <main className='sm:mt-[80px] mt-[40px]'>
+      <Container className='md:flex sm:gap-[30px]'>
         <div className="w-full">
           <ResumeContactInfo />
           <ResumeEducation />
           <ResumeWorkExperience />
         </div>
-        <div className="w-full md:mt-0 mt-[80px]">
+        <div className="w-full md:mt-0 sm:mt-[80px] mt-[40px]">
           <ResumeSkill />
           <ResumeLanguages />
           <ResumeTakingCourses />

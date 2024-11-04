@@ -30,7 +30,7 @@ export const ResumeProject = () => {
       <div>
         <TitleH4>Проекты</TitleH4>
       </div>
-      <div className="mb-[45px] sm:text-[24px] text-[18px]">
+      <div className="mb-[45px] sm:text-[24px] text-[14px]">
         Example.Programming in Delphi, Java, PHP, C++; Knowledge of document
         (website) markup languages: HTML, CSS, Javascript (JS); I have basic
         programming skills in the 1C: Enterprise 8.3 system; Knowledge of

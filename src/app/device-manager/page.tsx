@@ -28,7 +28,7 @@ export default function Page() {
             <MiniResume setActiveComponentValue={setActiveComponentValue} />
           </div>
           </div>
-        <div className="md:grid hidden grid-cols-3 w-full gap-x-[15px] h-full overflow-hidden relative">
+        <div className="md:grid hidden grid-cols-9 w-full lg:gap-x-[15px] gap-x-[5px] h-full overflow-hidden relative">
           <ProfileList setActiveComponentValue={setActiveComponentValue} />
           <Chat setActiveComponentValue={setActiveComponentValue} />
           <MiniResume setActiveComponentValue={setActiveComponentValue} />

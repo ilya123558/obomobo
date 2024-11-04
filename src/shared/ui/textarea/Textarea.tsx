@@ -84,7 +84,7 @@ export const Textarea: React.FC<IProps> = ({ handleSubmit, commentValue, setComm
               ref={ref}
               value={commentValue}
               placeholder='Напишите что-нибудь...'
-              className={'resize-none transition-all outline-none text-[15px] text-neutral-gray w-full'}
+              className={'resize-none transition-all outline-none sm:text-[15px] text-[10px] text-neutral-gray w-full'}
               onChange={handleChange}
             />
           </div>
